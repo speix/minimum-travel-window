@@ -10,7 +10,7 @@ We are going to find the minimum number of days in which we can visit all of the
 Our target is to optimize and find the minimum slice that contains all the cities at least once. 
 
 ### Overview
-The result represents a struct with consisting of:
+The result represents a struct consisting of:
 ```
 days: number of days needed to be on the road
 path: the path of the cities that we are going to follow
